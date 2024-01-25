@@ -1,2 +1,2 @@
 # celtics
-Data to improve my viewing experience
+Miscellaneous tools to help me stay in touch with Celtics basketball
